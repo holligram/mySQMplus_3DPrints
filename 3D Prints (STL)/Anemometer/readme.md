@@ -11,8 +11,8 @@
 
 `#define ARM_LENGTH                  (0.100)`
 
-* The sensor used is either the KY-024 or the KY-003. The hub has a pocket to accommodate the sensor and which places the magnet hall sensor at the correct height to interact with the magnets housed in the hub nut. There are to versions of the hub stl provided. Select the one that matches the sensor you plan to use.
-* There is a board retainer rind to keep the board securely held in the pocket.  
+* The sensor used is either the KY-024 or the KY-003. The base has a pocket to accommodate the sensor and which places the magnet hall sensor at the correct height to interact with the magnets, which are housed in the hub nut. There are two versions of the base stl's provided. Select the one that matches the sensor you plan to use.
+* There is an optional board retainer ring which will keep the board securely held in the pocket.  
 * The 3D printed nut doubles as the magnet carrier and can contain either 1, 2, 3, or 6 magnets. Two magnets are recommended. The number of pulses generated per revolution is based on 1 pulse per magnet. The mySQM+ mydefines.h will need to be adjusted based on the number of magnets you use:
 
 `#define PULSES_PER_REVOLUTION       2`
