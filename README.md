@@ -19,6 +19,7 @@ These prints will be installed outdoors to monitor weather and will be subjected
 ## About
 
 BY: Graham Hollis [holligram](https://github.com/holligram)
+
 LICENSE: Creative Commons Zero v1.0 Universal
 
 ATTRIBUTE: This is a redesign of the mySQM+ 3D prints created by Robert Brown for his mySQM+ DIY SQM WEATHER STATION project found on Sourceforge at the link https://sourceforge.net/projects/mysqmproesp32/files
