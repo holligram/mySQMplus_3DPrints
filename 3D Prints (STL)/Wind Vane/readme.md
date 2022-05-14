@@ -18,4 +18,5 @@
 - The common 6x3mm project magnet is too strong for this sensor and may overpower it causing unreliable data. I recommend using the smaller magnet provided with the sensor.
 - Be sure the magnet is securely held in the provided cavity of the cap. Should it drop out and fall on the sensor below it, it may cause the magic smoke to escape the ESP32. Ask me how I know this!
 - The pointer and tail are a tight fit in the hub which are then held fast by the cap. There may need some gentle filing to get them to fit correctly into the hub depending on how accurate your 3D printer is and how much over extrusion you have.
-- The 3D printed threads may need to touched up with a file depending on how well your printer reproduces these. 
+- The 3D printed threads may need to touched up with a file depending on how well your printer reproduces these.
+- Prepare the bearing by removing and discarding the seals on both sides. You can pry underneath the plastic and lift them off. You will then need to wash out all the factory grease using a solvent. Once all the grease has been dissolved, it's dry and spins freely, lubricate with one drop of light machine oil. 
