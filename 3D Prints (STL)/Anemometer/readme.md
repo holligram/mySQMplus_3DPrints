@@ -29,4 +29,6 @@
 - The KY-003 module works perfectly without the D2 or R3 components present in the circuit. Refer the mySQM+ documentation for more detail on this.
 - The arms are a tight fit in the hub which are then held fast by the cap. The ends of the arms may need some filing to get them to fit into the hub depending on how accurate your 3D printer is and how much over extrusion you have.
 - The 3D printed threads may need to touched up with a file depending on how well your printer reproduces these.
+- Prepare the bearing by removing and discarding the seals on both sides. You can pry underneath the plastic and lift them off. You will then need to wash out all the factory grease using a solvent. Once all the grease has been dissolved, it's dry and spins freely, lubricate with one drop of light machine oil.
+
 
